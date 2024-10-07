@@ -1,0 +1,15 @@
+{
+    "name": "Random Dice Roll",
+    "description": "Get a random number from 1 to 6 using a dice.",
+    "version": "1.3",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "index.html"
+    },
+    "icons": {
+        "128": "Icons/128.png",
+        "48": "Icons/48.png",
+        "32": "Icons/32.png",
+        "16": "Icons/16.png"
+    }
+}
